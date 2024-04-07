@@ -2,6 +2,8 @@
 
 When creating a custom dropdown that interacts with a large dataset from a remote data source, it is crucial to optimize the performance of the dropdown control. This article outlines a solution that combines load-on-demand and lazy loading techniques to efficiently load data into the dropdown, enhancing user experience and performance.
 
+## Load-on-Demand and Lazy-Loading Demo
+
 ![Load-on-Demand and Lazy-Loading Demo](./Load-on-Demand-and-Lazy-Loading-in-Custom-Dropdowns.gif)
 
 ## Load-on-Demand Implementation
