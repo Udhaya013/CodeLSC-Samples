@@ -104,6 +104,8 @@ This implementation ensures that data is loaded efficiently on demand, providing
 - [MDN Web Docs - Element: scroll event](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event)
 - [MDN Web Docs - Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) (for more advanced lazy loading scenarios)
 
+---
+
 # CodeLSC
 
 ---
