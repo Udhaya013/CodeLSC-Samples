@@ -1,4 +1,4 @@
-# Implementing Load-on-Demand and Lazy Loading in Custom Dropdowns
+# Implementing Load-on-Demand and Lazy Loading in Custom Dropdowns | JavaScript | CodeLSC
 
 When creating a custom dropdown that interacts with a large dataset from a remote data source, it is crucial to optimize the performance of the dropdown control. This article outlines a solution that combines load-on-demand and lazy loading techniques to efficiently load data into the dropdown, enhancing user experience and performance.
 
@@ -103,3 +103,14 @@ This implementation ensures that data is loaded efficiently on demand, providing
 - [MDN Web Docs - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [MDN Web Docs - Element: scroll event](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event)
 - [MDN Web Docs - Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) (for more advanced lazy loading scenarios)
+
+# CodeLSC
+
+---
+
+# 🚀 **Welcome to CodeLSC - Your Ultimate Coding Hub!**
+
+Embark on a coding journey with **CodeLSC**, your destination for insightful tutorials on **Angular**, **JavaScript**, **HTML**, **CSS**, and **Blazor**. From tackling event handling to crafting interactive web elements, we've got your coding adventure covered. Subscribe now for a front-row seat to the dynamic world of web development!
+
+## 🌐 **Explore Further:**
+Visit our YoutTube: [CodeLSC Channel](https://youtu.be/mw8vsBy-NG8?si=0iutLmnwAV-NHuiM) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!
