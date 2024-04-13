@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    </style>
+</head>
+
+<body>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 50px;
+            color: #333;
+        }
+
+        #myInput,
+        #mySelect {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        #mySelect option {
+            font-size: 16px;
+            padding: 8px 12px;
+        }
+
+        #mySelect option:checked {
+            background-color: #e6e6e6;
+        }
+
+        button {
+            width: 100%;
+            background-color: #ff6a00;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #fb5a5a;
+        }
+        h3 {
+            color: #ff9100;
+            font-size: 24px;
+            text-align: center;
+            padding: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+    <h3>How TO - Toggle Hide and Show an Element | CodeLSC</h3>
+    <button id="toggleBtn" onclick="ToggleFunction()">CodeLSC - Click to Hide!</button>
+    <input type="text" id="myInput" value="Welcome to CodeLSC - Your Ultimate Coding Hub!">
+    <select id="mySelect">
+        <option value="option1">CodeLSC</option>
+        <option value="option2">YouTube</option>
+        <option value="option2">Instagram</option>
+    </select>
+
+    <script>
+        function ToggleFunction() {
+            var inputElement = document.getElementById("myInput");
+            var selectElement = document.getElementById("mySelect");
+            var toggeleButton = document.getElementById("toggleBtn");
+            if (inputElement.style.display === "none") {
+                inputElement.style.display = "block";
+                selectElement.style.display = "block";
+                toggeleButton.innerHTML = "CodeLSC - Click to Hide!";
+            } else {
+                inputElement.style.display = "none";
+                selectElement.style.display = "none";
+                toggeleButton.innerHTML = "CodeLSC - Click to Show!";
+            }
+        }
+    </script>
+
+</body>
+
+
+</html>
