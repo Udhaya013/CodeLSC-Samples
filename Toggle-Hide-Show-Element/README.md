@@ -1,6 +1,6 @@
 # How TO - Toggle Hide and Show an Element | CodeLSC
 
-[![Toggle Hide and Show an Element Demo](https://raw.githubusercontent.com/Udhaya013/CodeLSC-Samples/main/Toggle-Hide-Show-Element/Toggle-Hide-and-Show-an-Element.png)](https://www.youtube.com/@codelsc/videos)
+[![Toggle Hide and Show an Element Demo](https://raw.githubusercontent.com/Udhaya013/CodeLSC-Samples/main/Toggle-Hide-Show-Element/Toggle-Hide-and-Show-an-Element.png)](https://youtu.be/K2xaSnwq_mQ?si=SUNJLQITLysP3h3W)
 
 In this article, we will learn how to toggle between hiding and showing an HTML `input` and `select` elements using JavaScript.
 
