@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Browser Online or Offline Status | CodeLSC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Detect Whether the Browser is Online or Offline with JavaScript | CodeLSC</h1>
+    <hr />
+    <button class="button" onclick="checkBrowserStatus()">Try it</button>
+
+    <h3 id="browserStatus" class="glow"></h3>
+
+    <script>
+        function checkBrowserStatus() {
+            var browserStatus = navigator.onLine ? "The browser is Online" : "The browser is Offline";
+            document.getElementById("browserStatus").innerHTML = browserStatus;
+            if (navigator.onLine) {
+               // Further code here
+            }
+        }
+    </script>
+
+</body>
+
+</html>
