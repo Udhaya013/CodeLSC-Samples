@@ -1,4 +1,4 @@
-<img src="./Browser's-Network-Status-JavaScript.png" title="Browser's Online/Offline Status" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 5%; width: 40%;" />
+<img src="https://raw.githubusercontent.com/Udhaya013/CodeLSC-Samples/main/Detect-Bowser-Online-Offline-Status/Browser's-Network-Status-JavaScript.png" title="Browser's Online/Offline Status" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 5%; width: 40%;" />
 
 # Checking Browser's Network Status with JavaScript
 
