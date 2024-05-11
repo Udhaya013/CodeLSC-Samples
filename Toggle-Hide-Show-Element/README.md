@@ -53,6 +53,8 @@ You can try this example yourself in your own HTML file. Just copy the HTML and 
 
 Happy coding!
 
+### 📂 **Get the Full Source Code!** 📚Click [here](https://github.com/Udhaya013/CodeLSC-Samples/tree/main/Toggle-Hide-Show-Element) to **download the full source code**
+
 ---
 
 # CodeLSC
@@ -62,4 +64,4 @@ Happy coding!
 Embark on a coding journey with **CodeLSC**, your destination for insightful tutorials on **Angular**, **JavaScript**, **HTML**, **CSS**, and **Blazor**. From tackling event handling to crafting interactive web elements, we've got your coding adventure covered. Subscribe now for a front-row seat to the dynamic world of web development!
 
 ## 🌐 **Explore Further:**
-Visit our YoutTube: [CodeLSC Channel](https://youtu.be/mw8vsBy-NG8?si=0iutLmnwAV-NHuiM) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!
+Visit our YoutTube: [CodeLSC Channel](https://youtu.be/K2xaSnwq_mQ?si=TUmdGUr0GbLeL00J) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!

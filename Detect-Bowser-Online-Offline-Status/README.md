@@ -54,6 +54,8 @@ And that's all! You can now determine the online or offline status of a browser.
 ## Conclusion
 Knowing the online or offline status of a browser is vital for building robust web applications that can handle network fluctuations. The `navigator.onLine` property offers a simple and effective way to achieve this. This code serves as an excellent starting point for developers looking to enhance their applications with network connectivity awareness.
 
+### 📂 **Get the Full Source Code!** 📚Click [here](https://github.com/Udhaya013/CodeLSC-Samples/tree/main/Detect-Bowser-Online-Offline-Status) to **download the full source code**
+
 ---
 
 # CodeLSC
@@ -63,4 +65,4 @@ Knowing the online or offline status of a browser is vital for building robust w
 Embark on a coding journey with **CodeLSC**, your destination for insightful tutorials on **Angular**, **JavaScript**, **HTML**, **CSS**, and **Blazor**. From handling events to creating interactive web elements, we've got your coding adventure covered. Subscribe now for a front-row seat to the dynamic world of web development!
 
 ## 🌐 **Explore Further:**
-Visit our YouTube: [CodeLSC Channel](https://youtu.be/mw8vsBy-NG8?si=0iutLmnwAV-NHuiM) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!
+Visit our YouTube: [CodeLSC Channel](https://youtube.com/shorts/eeHu7nprZtQ?si=5VZcR-PH__i33UJ4) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!

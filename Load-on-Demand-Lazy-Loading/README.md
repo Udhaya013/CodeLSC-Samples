@@ -100,6 +100,8 @@ Below is an example of how to implement these techniques in a custom dropdown:
 
 This implementation ensures that data is loaded efficiently on demand, providing a responsive and seamless user experience, especially when dealing with large datasets.
 
+### 📂 **Get the Full Source Code!** 📚Click [here](https://github.com/Udhaya013/CodeLSC-Samples/tree/main/Load-on-Demand-Lazy-Loading) to **download the full source code**
+
 ## Additional References
 
 - [MDN Web Docs - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
@@ -117,4 +119,4 @@ This implementation ensures that data is loaded efficiently on demand, providing
 Embark on a coding journey with **CodeLSC**, your destination for insightful tutorials on **Angular**, **JavaScript**, **HTML**, **CSS**, and **Blazor**. From tackling event handling to crafting interactive web elements, we've got your coding adventure covered. Subscribe now for a front-row seat to the dynamic world of web development!
 
 ## 🌐 **Explore Further:**
-Visit our YoutTube: [CodeLSC Channel](https://youtu.be/mw8vsBy-NG8?si=0iutLmnwAV-NHuiM) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!
+Visit our YoutTube: [CodeLSC Channel](https://youtu.be/J-xoIL2J7p0?si=UQQ_PrSRM6bMFzpb) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!
