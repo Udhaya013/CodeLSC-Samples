@@ -117,3 +117,16 @@ Let's break down the JavaScript code:
 ## Conclusion
 
 In this blog post, we created an AutoComplete component and implemented a debounce function to optimize our component. This component can be a great addition to your web projects, providing a better user experience by reducing the number of server requests and improving the performance of your web application. We hope this tutorial was helpful and encourage you to continue exploring the many possibilities of JavaScript! Happy coding!
+
+### 📂 **Get the Full Source Code!** 📚Click [here](https://github.com/Udhaya013/CodeLSC-Samples/tree/main/AutoComplete-Component-with-Debounce) to **download the full source code**
+
+---
+
+# CodeLSC
+
+# 🚀 **Welcome to CodeLSC - Your Ultimate Coding Hub!**
+
+Embark on a coding journey with **CodeLSC**, your destination for insightful tutorials on **Angular**, **JavaScript**, **HTML**, **CSS**, and **Blazor**. From handling events to creating interactive web elements, we've got your coding adventure covered. Subscribe now for a front-row seat to the dynamic world of web development!
+
+## 🌐 **Explore Further:**
+Visit our YouTube: [CodeLSC Channel](https://youtube.com/shorts/eeHu7nprZtQ?si=5VZcR-PH__i33UJ4) and website: [CodeLSC Blog](https://codelsc.blogspot.com/) for additional resources, articles, and more!
