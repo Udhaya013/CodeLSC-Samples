@@ -2,8 +2,7 @@
 
 In this blog post, we will create an AutoComplete component using vanilla JavaScript, HTML, and CSS. We will also implement a debounce function to optimize our component.
 
-To get started quickly using the AutoComplete Component with Debounce, watch this video:
-{% youtube "https://youtu.be/x9huyjurGxA" %}
+[![To get started quickly using the AutoComplete Component with Debounce, watch this video:](https://img.youtube.com/vi/x9huyjurGxA/0.jpg)](https://youtu.be/x9huyjurGxA)
 
 ## What is Debounce?
 
