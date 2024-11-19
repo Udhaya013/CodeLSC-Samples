@@ -2,6 +2,9 @@
 
 In this blog post, we will create an AutoComplete component using vanilla JavaScript, HTML, and CSS. We will also implement a debounce function to optimize our component.
 
+To get started quickly using the AutoComplete Component with Debounce, watch this video:
+{% youtube "https://youtu.be/x9huyjurGxA" %}
+
 ## What is Debounce?
 
 Debounce is a programming practice used to ensure that time-consuming tasks do not fire so often. This can be particularly useful for certain events that can trigger a high frequency of function calls in a short period of time, such as scroll, resize, keyup, mousemove etc. 
