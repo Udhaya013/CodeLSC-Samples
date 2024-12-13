@@ -2,6 +2,9 @@
 
 Creating links to specific parts of a webpage is a fundamental feature of HTML that enhances user navigation. These are called *anchor links*, and they are especially useful for lengthy articles or one-page websites where users need quick access to specific sections.
 
+To get started quickly on Link to a Specific Part of a Page (HTML Anchor Link), watch this video:
+[![CodeLSC YouTube](https://img.youtube.com/vi/KMDB5YLuQlg/0.jpg)](https://www.youtube.com/watch?v=KMDB5YLuQlg)
+
 Here’s a step-by-step guide:
 
 ---
